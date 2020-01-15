@@ -1,0 +1,137 @@
+.logo{
+    width: 80px;
+}
+.navbar-toggler span{
+display: block;
+background-color: #000;
+height: 3px;
+width: 25px;
+margin-top: 4px;
+margin-bottom: 4px;
+-webkit-transform: rotate(0deg);
+transform: rotate(0deg);
+left: 0;
+opacity: 1;
+}
+
+.logo{
+    color: #f82249;
+}
+.nav-link{
+    color:#000;
+}
+.btn-custom:hover{
+    background: #ffffff;
+    color: #6820c7;
+}
+.btn-custom{
+    background: #ffffff;
+    color: #6820c7;
+    border: 2px solid #4922f8;
+}
+.btn2-custom{
+        background: #f82249;
+        color: #ffffff;
+        border: 2px solid #f82249;
+}
+
+.flex-container{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    background: url(../image/microbiology-163521_1280.jpg);
+    padding-top: 8rem;
+}
+.image-left{
+    width: 55%;
+    padding-bottom: 10rem;
+    color: #ffffff;
+    padding-top: 10rem;
+}
+.image-left h1{
+    font-size: 3rem;
+}
+.image-left h3{
+    padding-top: 2rem;
+}
+.register-form{
+    width: 38%;
+    padding: 40px 0 40px 0;
+    text-align: center;
+    background: #ffffff;
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+    border-radius: 5px;
+}
+
+.input-field{
+    width: 300px;
+    height: 35px;
+    margin-bottom: 20px;
+}
+
+.image-register{
+    height: 300px;
+    width: 500px;
+    margin-top: 30px;
+}
+.input-field{
+    width: 60%;
+    margin-top: 1.7rem;
+    
+}
+.sign-button{
+    background: #4922f8;
+    color: #ffffff;
+}
+.happy{
+    text-align: center;
+    padding-top: 5rem;
+    padding-bottom: 3rem;
+}
+
+.flex-container1{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    padding-top: 1.5rem;
+    padding-bottom: 5rem;
+}
+.life{
+    width: 15%;
+    text-align: center;
+    font-size: 0.8rem;
+    color: rgb(58, 56, 56);
+}
+.real{
+    width: 15%;
+    text-align: center;
+    font-size: 0.8rem;
+    color: rgb(58, 56, 56);
+}
+.learn{
+    width: 15%;
+    text-align: center;
+    font-size: 0.8rem;
+    color: rgb(58, 56, 56);
+}
+.image-life{
+    width: 30%;
+}
+.image-real{
+    width: 25%;
+}
+.image-learn{
+    width: 25%;
+}
+
+.xamarin h4{
+    font-size: 1.5rem;
+    text-align: center;
+}
+.image-xamarin{
+    width: 100%;
+}
+.william h1{
+    background: #ffffff;
+}
